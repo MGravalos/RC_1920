@@ -1,0 +1,26 @@
+1-----------------------
+Si es posible. Modo de preguntar:
+	?- concatenar(_,[E1,E2|_],[1,2,3,4,5,6,7]).
+		E1 = 1,
+		E2 = 2 ;
+		E1 = 2,
+		E2 = 3 ;
+		E1 = 3,
+		E2 = 4 ;
+		E1 = 4,
+		E2 = 5 ;
+		E1 = 5,
+		E2 = 6 ;
+		E1 = 6,
+		E2 = 7 .
+2-----------------------
+Si es posible. Ejemplo:
+	→ invertir(Lista,[1,2,3]). → Lista = [3,2,1].
+3-----------------------
+Un predicado puede no ser reversible cuando se utiliza el operador is.
+4-----------------------
+Posible unión de ambos predicados para concatenar una lista con su inversa
+	?- Lista1 = [1,2,3], invertir(Lista1,Lista2),concatenar(Lista1,Lista2,Lista3).
+	Lista1 = [1, 2, 3],
+	Lista2 = [3, 2, 1],
+	Lista3 = [1, 2, 3, 3, 2, 1].
