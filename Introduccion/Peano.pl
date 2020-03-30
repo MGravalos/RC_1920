@@ -31,9 +31,18 @@ mult(_,0,0).
 mult(N1,s(N2),R):-mult(N1,N2,R1), suma(N1,R1,R).
 
 /*
- * div(?N1,?N2,?R).
+ * div(?N1,?N2,?R,?Resto).
  * es cierto si R unifica con la division exacta de N1 y N2
  */
 
-div(N1,s(0),N1).
-div(N1,N2,C,R) :- mult(N2,C,A),suma(A,R,N1).
+peano_div(N1,N2,0,N1) :- menor(N1,N2).
+peano_div(N1, N2,s(C),R) :- resta(N1,N2,N3), peano_div(N3,N2,C,R).
+
+/*
+ * menor(?N1, ?N2)
+ * es cierto si N1 es menor que N2 en aritmetica
+ * de Peano
+*/
+
+menor(0,s(_)).
+menor(s(N1),s(N2)):-menor(N1,N2).
