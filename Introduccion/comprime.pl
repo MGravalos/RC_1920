@@ -8,4 +8,6 @@
  */
 
 comprime([],[]).
-comprime([C|R],Almacena) :- N is Almacena[N], N2 is N+1, Almacena2[(C,N2)], comprime(R,Almacena2).
+comprime([E],[(E,1)]).
+comprime([C,C|R],[(C,N)|Resto]) :- comprime([C|R],[(C,N2)|Resto]), N is N2+1.
+comprime([C1,C2|R],[(C1,1)|Resto]) :- C1 \= C2, comprime([C2|R],Resto).

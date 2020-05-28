@@ -1,0 +1,4 @@
+%Invertir(Lista,Resultado).
+%
+invertir([],[]).
+invertir([C|R],Result):-invertir(R,Result),append(Result,[C],Result).
