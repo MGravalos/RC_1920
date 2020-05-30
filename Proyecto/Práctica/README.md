@@ -1,8 +1,11 @@
 # Resolución del juego de Conecta 4 en prolog
 
 :office: Universidad de Huelva ([UHU](http://www.uhu.es/index.php))
+
 :calendar: Curso 2019-2020
+
 :mortar_board: Representación del conocimiento
+
 :boy: Manuel Jesús Grávalos Cano
 
 
