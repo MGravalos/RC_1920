@@ -15,7 +15,6 @@ En esta parte del proyecto se desarrolla la implementación del juego conecta 4 
 *Recomendado leer este documento al completo si se pretende modificar el código así como si se pretende entender sin conocer en profundidad el lenguaje.*
 
 ## Juego conecta 4
-![ ](https://photos.app.goo.gl/esnkKVQ3izPFeJbz9)
 Conecta 4 es un juego con un tablero vertical de 6 filas y 7 columnas para dos jugadores, donde los jugadores se alternan y ponen una ficha de su color o forma en una de las columnas, de forma que siempre quedará en la fila más inferior que esté libre.
 
 ## Predicados en prolog
