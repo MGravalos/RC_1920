@@ -20,7 +20,7 @@ Una vez terminado los posibles roles, pasemos a las técnicas más comunes usada
 Las redes IS-AS son el tipo de red semántica mas común, aunque los enlaces que crean estas redes también estén presentes en grafos conceptuales y marcos.
 
 Presenta una jerarquía taxonómica constituida por sistemas de enlaces de herencia. Estas redes son el resultado de la agrupación que hace el ser humano a los objetos. Por ejemplo:
-![ ](https://photos.app.goo.gl/dymykLnmJawi4uHX8)
+![ ](https://lh3.googleusercontent.com/mKB56NuNgGGLIV-fi79-4ySsgHPPo9Y6pbaqOnXxrQcPW1P0NXP2d3cNw2ix1DilsjElzcG95ziS0PG-Viq02aibWrW-_TuWT6-J6wrFXiyLA9F19LeBGWOmIcP9msDssHP_BLj54MWup8riRy0hYFDdEsVh2f9kU8wPURUVS4DZjiR0q25xBmmRo_TPWsbQEslo5K9Te81e94SMi-kL1lLW6Z8oOMmvUu3IcIYjtpE3KNXaEETWs-lPFkR1eJdcPUL46YnnvLhUQumqpZ06p33jt-ENqtnw8HjsGC1GNaLFWbPtxF3d0BGWlka7VSTslOSecg65axUKRblhObo-VQccPhaXlLxLVrNB7zVY7TM440KztBr9yWB8CvXF5oEQjlU6YRBqlAssBsI-9KD3Z8NhyCzapm-sMvmNX-vpBR6vYH4kqiJf0H6pupJ-4mRlTBSXcYsfB9dawO4rRfGcYIhSxDT1s10THBI52cLP_1qPqm_8o2TKFvkI2dNuKnzJhgnEylfaIodslRM7zcHDE7iMwclz_ECs4Js9sHxINMLlgCbw01DR6iq5o0wAsSs1_YqbvxKlq7UekLavhItOfD3nF0laGdeMwrSXpc1lFMVpanz0-j0UlXd7SB6cuhonD7Auz-0x8MSMGpypimTO7vaADEM6uAlIKNWkufvlxQPAjjeMn6d69otMNVcxeQ=w844-h435-no?authuser=0)
 
 
 En la jerarquía, los nodos más bajos suelen representar individuos concretos, mientras que los de orden superior denotan clases de individuos.
