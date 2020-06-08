@@ -43,7 +43,7 @@ Fueron propuestos por Minsky en 1975 con la siguiente idea original:
 "Un Frame es una estructura de datos para representar una situación estereotipada... Podemos pensar en un Frame como una red de nodos y relaciones. Los 'niveles superiores' de un Frame son fijos y representan cosas que son siempre ciertas en la situación supuesta. Los niveles inferiores tienen muchos terminales - 'slots' que tienen que llenarse con instancias o datos específicos... Las suposiciones por defecto son asociadas débilmente con sus terminales, de forma tal que ellas puedan ser fácilmente removidas ante nuevos elementos que se ajusten mejor a la situación actual."
 
 Podemos resumir esto en que un marco es una estructura de datos compleja compuesta por casillas, que referencian al objeto correspondiente al marco. Por ejemplo:
-![ ](https://photos.app.goo.gl/CY76EWk7jSNiVsff9)
+![ ](https://lh3.googleusercontent.com/LavDm6EBKex9Tm48Nx-Vp_Hwr56pcbj815L1dT40zmaDr82M6hWoPVqlMFDurr9yjFS3YJ3728FxqIxvs7yYABoYB_kwtNX5hbI81-Uo1cgxXyXKWfALk5DBqy3-OGwaNkgJhCT7pyeTRt4Gk0d1l8efKo3-mHpxGFkjwXjt6xpIzk9JMkixW0E-SS3Sim2GSj-4cPtaF311G1n99MYzTDaze0UCwFQWpb0dBFbWqXnES3Lnh4BjUgS_S1yV9wTMQK6qESHqPCMuTX_C6UoDJYHdKORt_R9TAu7VG4rA_wA4IS63NKBd5ktejykZ3kDdsGSmwQHouLx50n49wjXQ7P9Ru5N_IAip-Cu8Tw7-cBsnqGgDAUNW78NlYdaTOqg6U5ZZmHbeXJKTAnfbbBLLk8Pzcf4XtV80IpZc0LxflQLHIsKo4zCyPAOpmgwQ0JpvzfjAvvtL9iUhZlXdzy1YbspVR3A6KM2n_tar1tIdFL4ecigVK_Gb0MO6VehLpYrRLy1FENzB3dFKkQupUTHRaPu20pTOU2qBmMexVt2SKYlBNt9kC6vzves1X43azRJPRTK14yTw9flzSsjf4UxYeoCHqt_38kRdraFAOVCgzZMAo92NsPMWZsvJBKfiiB6RjM6EEhTKNu1iiIxmiNbiXQXPdvuw1iTJhsTxlYac4q1wtHAQacBKyTqyem85Lg=w314-h220-no?authuser=0)
 
 ## Ventajas
 
